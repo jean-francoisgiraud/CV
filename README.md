@@ -1,3 +1,3 @@
 # hello-world
-# first tests
-jf giraud, ceo of 8289468 canada inc.
+# Presentation
+JF Giraud (8289468 Canada inc.)
