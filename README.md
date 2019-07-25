@@ -1,8 +1,10 @@
 # www.linkedin.com/in/jfgiraudengineer
 # sites.google.com/site/8289468canadainc/
-# Presentation Letter
-# CV, ENGLISH  
-# CV FRANCAIS
+# ENGLISH CV and Presentation Letter  
+# CV et Lettre de Presentation en FRANCAIS
+
+
+# ENGLISH CV and Presentation Letter 
 
 Are you looking for support and services in the following areas?  
 
@@ -16,6 +18,8 @@ R&D and Laboratory Work (Testing, Verification, Validation).
 Systems (Documentation, Operations, Manufacturing, Neural Networks, Simulations, Modeling).  
 Business Development (Sales, Solicitation, Account Management, Customer Support).  
 Eco-Design (DFE Design for the Environment) and workplace hazardous materials information system controls (WHMIS). Mentoring, Training and Development of the Workforce.  
+Digital Mirroring of Products and Processes.  
+Blockchain Enabling and Integration for Automation.  
   
 If so, please consider this proposal.  
 I am available on a permanent (full time) or contractual (part time) basis (8289468 Canada Inc.).  
@@ -100,8 +104,29 @@ For more information, references, publications, articles please see my profile o
 https://ca.linkedin.com/in/jfgiraudengineer
 
 
+# CV et Lettre de Presentation en FRANCAIS
 
-# CV FRANCAIS
+Recherchez-vous du support dans les domaines suivants?  
+
+Ingénierie (Matériaux, Procédés, Composites, Design et Développement, Modélisation 3D).  
+Qualité (ISO9001, AS9100, TQM, Kaizen, Lean, SPC, Conformité, Sécurité, Gestion des Risques).  
+Gestion de Projets et de Programmes (Logistique, Intégration, Workflow).  
+Industrialisation (Production, Méthodes, Instructions de Travail et d'Inspections, Opérations).   
+Rédaction Technique (Normes, Spécifications, Instructions, Inspections, Offres, Soumissions).  
+Fabrication Numérique (Impression 3D et 4D, Matériaux Intelligents, Matière Programmable).  
+R&D et Travail de Laboratoire (Tests, Vérifications, Validations).  
+Systèmes (Documentation, Fabrication, Optimisation, Réseau Neuronal, Simulations, Modélisation).  
+Développement des Affaires (Ventes, Sollicitation, Gestion de Comptes, Support à la Clientèle).  
+Eco-Design (Conception Pour l’Environnement et la durabilité).  
+SIMDUT(Système d'information sur les matières dangereuses utilisées au travail).  
+Mentorat, Formation et Développement de la Main-d'œuvre.  
+Mise en miroir numérique des produits et des processus.
+Automatisation par l'integration de chaines de blocs.  
+
+Si oui, merci de considérer cette proposition.  
+
+Je suis disponible comme employé permanent (temps plein) ou contractuel (8289468 Canada Inc.).  
+
 Jean-François Giraud ing. Membre OIQ #45934.
 
 Ingénieur spécialisé en Matériaux & Procédés avec plus de 30 ans d’expérience dans l’industrie automobile et aérospatiale.  
