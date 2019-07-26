@@ -1,8 +1,6 @@
 
 # ENGLISH CV and Presentation Letter  
-# Workflows Roles and Responsibilities  
 # CV et Lettre de Presentation en FRANCAIS
-# Rôles et responsabilités des flux de travail
 #  
 #  
 # ENGLISH CV and Presentation Letter 
@@ -105,18 +103,6 @@ Software: Offices, CATIA/ENOVIA Freecad, Projects, R, Lisp, Python, SAP, Linux, 
 For more information, references, publications, articles please see my profile on LinkedIn
 
 https://ca.linkedin.com/in/jfgiraudengineer
-
-# Workflows Roles and Responsibilities  
-
-PRODUCT DEVELOPMENT AND PROCESS IMPROVEMENT  
-Customers want new or improved products services;  
-OEMs transform customer’s wants in actual products by the following processes;  
-Engineering designs checks a digital mockup (DMU) then produces drawings (dwg);   
-Methods makes work instructions (WI) from dwg;   
-Production builds products aircrafts from WI;  
-Quality Control (QC) checks the compliance of all processes and systems (audits corrections improvements);  
-Quality Control (QA) checks the compliance of the final product (inspections);  
-Regulators and Registrars validate the final products operations systems (type certifications);   
 
 #  
 #  
@@ -225,14 +211,3 @@ Pour plus d'information, références, publications veuillez svp consulter mon p
 
 https://ca.linkedin.com/in/jfgiraudengineer  
 
-# Rôles et responsabilités des flux de travail
-
-DÉVELOPPEMENT DE PRODUIT ET AMÉLIORATION DES PROCÉDÉS  
-Les clients veulent des produits nouveaux ou améliorés.  
-Les fabriquants transforment les besoins des clients en produits réels par les processus suivants.  
-Les conceptions techniques vérifient une maquette numérique (DMU), puis produisent des dessins.  
-Méthodes crée des instructions de travail (IT) à partir des dessins.  
-La production construit les produits a partir des IT.  
-Le contrôle de la qualité (CQ) vérifie la conformité de tous les processus et systèmes (améliorations des corrections apportées aux audits).  
-Le contrôle de la qualité (CQ) vérifie la conformité du produit final (inspections).  
-Les régulateurs et les bureaux d'enregistrement valident les systèmes d'exploitation des produits finis (certifications de type).  
