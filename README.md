@@ -7,7 +7,7 @@
 
 Are you looking for support and services in the following areas?  
 
-Engineering (Materials, Processes, Composites, Design and Development, 3D Modeling).  
+Engineering (Materials, Processes, Composites, Design and Development, 3D Modeling, Fungiculture).  
 Quality (ISO9001, AS9100, TQM, Kaizen, Lean, SPC, Compliance, Safety, Risk Management)  
 Project and Program Management (Planning, Logistics, Integration, Workflow).  
 Industrialization (Production, Methods, Work Instructions, Operations).  
@@ -110,7 +110,7 @@ https://ca.linkedin.com/in/jfgiraudengineer
 
 Recherchez-vous du support dans les domaines suivants?  
 
-Ingénierie (Matériaux, Procédés, Composites, Design et Développement, Modélisation 3D).  
+Ingénierie (Matériaux, Procédés, Composites, Design et Développement, Modélisation 3D, Myciculture).  
 Qualité (ISO9001, AS9100, TQM, Kaizen, Lean, SPC, Conformité, Sécurité, Gestion des Risques).  
 Gestion de Projets et de Programmes (Logistique, Intégration, Workflow).  
 Industrialisation (Production, Méthodes, Instructions de Travail et d'Inspections, Opérations).   
