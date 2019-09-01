@@ -7,7 +7,7 @@
 
 Are you looking for support and services in the following areas?  
 
-Engineering (Materials, Processes, Composites, Design and Development, 3D Modeling, Fungiculture).  
+Engineering (Materials, Processes, Composites, Flammability, Design and Development, 3D Modeling, Fungiculture).  
 Quality (ISO9001, AS9100, TQM, Kaizen, Lean, SPC, Compliance, Safety, Risk Management)  
 Project and Program Management (Planning, Logistics, Integration, Workflow).  
 Industrialization (Production, Methods, Work Instructions, Operations).  
@@ -72,6 +72,7 @@ SPECIALIZED TRAINING
 
 Management (systems, projects, regulations)	1998-2019  
 Computer Aided Design (CAD)			1988-2019  
+TC Flammability Designated engineer		1999-2000  
 Lead auditor ISO9001, AS9100 by BSI		2006  
 
 MAJOR ACCOMPLISHMENTS
@@ -110,7 +111,7 @@ https://ca.linkedin.com/in/jfgiraudengineer
 
 Recherchez-vous du support dans les domaines suivants?  
 
-Ingénierie (Matériaux, Procédés, Composites, Design et Développement, Modélisation 3D, Myciculture).  
+Ingénierie (Matériaux, Procédés, Composites, Inflammabilité, Design et Développement, Modélisation 3D, Myciculture).  
 Qualité (ISO9001, AS9100, TQM, Kaizen, Lean, SPC, Conformité, Sécurité, Gestion des Risques).  
 Gestion de Projets et de Programmes (Logistique, Intégration, Workflow).  
 Industrialisation (Production, Méthodes, Instructions de Travail et d'Inspections, Opérations).   
@@ -177,6 +178,7 @@ FORMATIONS SPÉCIALISÉES
  
 Gestion (systèmes, projets, règlementation)	1998-2019  
 Conception assistée par ordinateur (CAO) 	1988-2019  
+TC Ingénieur désigné Inflammabilité 		1999-2000  
 Auditeur principal ISO9001, AS9100 par BSI 	2006  
  
 ACCOMPLISSEMENTS PRINCIPAUX	 
