@@ -103,8 +103,10 @@ Software: Offices, CATIA/ENOVIA Freecad, Projects, R, Lisp, Python, SAP, Linux, 
 
 For more information, references, publications, articles please see my profiles  
 
+https://github.com/jean-francoisgiraud  
 https://ca.linkedin.com/in/jfgiraudengineer  
-https://ca.linkedin.com/in/jfgiraudengineer  
+sites.google.com/site/8289468canadainc/  
+
 #  
 #  
 # CV et Lettre de Presentation en FRANCAIS
@@ -211,6 +213,7 @@ Logiciel: Office, CATIA/ENOVIA Freecad, Projets, R, Lisp, Python, SAP, Linux, Wi
 
 Pour plus d'information, références, publications veuillez svp consulter mes profiles    
 
+https://github.com/jean-francoisgiraud  
 https://ca.linkedin.com/in/jfgiraudengineer  
-https://ca.linkedin.com/in/jfgiraudengineer  
+sites.google.com/site/8289468canadainc/  
 
