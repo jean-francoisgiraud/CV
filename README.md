@@ -101,10 +101,10 @@ Technical Writing: Offers, bids, requirements, repairs Specifications, work inst
 
 Software: Offices, CATIA/ENOVIA Freecad, Projects, R, Lisp, Python, SAP, Linux, Windows, MacOS...
 
-For more information, references, publications, articles please see my profile on LinkedIn
+For more information, references, publications, articles please see my profiles  
 
-https://ca.linkedin.com/in/jfgiraudengineer
-
+https://ca.linkedin.com/in/jfgiraudengineer  
+https://ca.linkedin.com/in/jfgiraudengineer  
 #  
 #  
 # CV et Lettre de Presentation en FRANCAIS
@@ -209,7 +209,8 @@ Rédaction technique: offres, spécifications, instructions de travail et inspec
 
 Logiciel: Office, CATIA/ENOVIA Freecad, Projets, R, Lisp, Python, SAP, Linux, Windows, MacOS...  
 
-Pour plus d'information, références, publications veuillez svp consulter mon profile LinkedIn  
+Pour plus d'information, références, publications veuillez svp consulter mes profiles    
 
+https://ca.linkedin.com/in/jfgiraudengineer  
 https://ca.linkedin.com/in/jfgiraudengineer  
 
