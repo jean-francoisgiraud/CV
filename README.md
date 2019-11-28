@@ -7,21 +7,24 @@
 
 Are you looking for support and services in the following areas?  
 
-Engineering (Materials, Processes, Composites, Flammability, Design and Development, 3D Modeling, Fungiculture).  
-Quality (ISO9001, AS9100, TQM, Kaizen, Lean, SPC, Compliance, Safety, Risk Management)  
-Project and Program Management (Planning, Logistics, Integration, Workflow).  
-Industrialization (Production, Methods, Work Instructions, Operations).  
-Technical Writing (Specifications, Requirements, Instructions, Inspections, Offers, Bids).  
-Digital Manufacturing (3D and 4D Printing, Smart Materials and Programmable Matter).  
-R&D and Laboratory Work (Testing, Verification, Validation).  
-Systems (Documentation, Operations, Manufacturing, Neural Networks, Simulations, Modeling).  
-Business Development (Sales, Solicitation, Account Management, Customer Support).  
-Eco-Design (DFE Design for the Environment) and workplace hazardous materials information system controls (WHMIS). Mentoring, Training and Development of the Workforce.  
-Digital Mirroring of Products and Processes.  
-Blockchain Enabling and Integration for Automation.  
-  
+Hello,  
+
+Are you looking for support and services in the following areas?  
+
+Regulatory compliance and quality (iso9001, as9100, safety, risk management).  
+Project and program management (planning, logistics, integration, workflow).  
+Engineering (materials, processes, composites, flammability, design and development, 3d modeling).  
+Industrialization (production, methods, work instructions, operations).  
+Technical writing (specifications, requirements, instructions, inspections, offers, bids).  
+Digital manufacturing (3d and 4d printing, smart materials and programmable matter).  
+R&D and laboratory work (testing, verification, validation).  
+Systems (documentation, operations, manufacturing, neural networks, simulations, modeling).  
+Business development (sales, solicitation, account management, customer support).  
+Eco-design (DFE design for the environment) and workplace hazardous materials information system controls (whmis). Mentoring, training and development of the workforce.  
+
 If so, please consider this proposal.  
 I am available on a permanent (full time) or contractual (part time) basis (8289468 Canada Inc.).  
+
 #   
 www.linkedin.com/in/jfgiraudengineer  
 sites.google.com/site/8289468canadainc/  
@@ -30,8 +33,8 @@ sites.google.com/site/8289468canadainc/
 
 Jean-François Giraud, eng.  OIQ member #45934; 
 
-Engineer specialized in Material & Processes with more than 30 years of experience in the automotive and aerospace industry.  
-Passionate about continuous improvement, innovation, the environment, sustainability and transportation.  
+Engineer specialized in regulatory compliance, operations management, material and processes.  
+Passionate about continuous improvement, innovation, the environment, sustainability and transportation. 
 
 WORK EXPERIENCE  
 
@@ -77,7 +80,7 @@ Lead auditor ISO9001, AS9100 by BSI		2006
 
 MAJOR ACCOMPLISHMENTS
 
-R&D in aerospace: alternative fuels (renewable biological jet fuel), advanced polymers and coatings, VOC and smog reduction, elimination of CFCs and ozone depletion.  
+Aerospace: Compliance, alternative fuels, advanced polymers and coatings, VOC and smog reduction, elimination of CFCs and ozone depletion.  
 
 DFE (design for the environment) elimination of hazardous materials.  
 
@@ -95,13 +98,12 @@ Provided training and mentoring in Materials, Processes, Composites Engineering.
 
 TECHNICAL SKILLS 
 
-M&P: Composites, finishing & coatings, polymers, statistical process control, methods and management systems.  
+M&P: Composites, finishing & coatings, polymers, flammability, statistical process control, methods and management systems.  
 
 Technical Writing: Offers, bids, requirements, repairs Specifications, work instructions & inspections, certification plans.  
 
-Software: Offices, CATIA/ENOVIA Freecad, Projects, R, Lisp, Python, SAP, Linux, Windows, MacOS...
+Software: Offices, Freecad, R, Lisp, Python, SAP, Linux, Windows, MacOS.  
 
-For more information, references, publications, articles please see my profiles  
 
 https://github.com/jean-francoisgiraud  
 https://ca.linkedin.com/in/jfgiraudengineer  
@@ -113,24 +115,23 @@ sites.google.com/site/8289468canadainc/
 
 Recherchez-vous du support dans les domaines suivants?  
 
-Ingénierie (Matériaux, Procédés, Composites, Inflammabilité, Design et Développement, Modélisation 3D, Myciculture).  
-Qualité (ISO9001, AS9100, TQM, Kaizen, Lean, SPC, Conformité, Sécurité, Gestion des Risques).  
-Gestion de Projets et de Programmes (Logistique, Intégration, Workflow).  
-Industrialisation (Production, Méthodes, Instructions de Travail et d'Inspections, Opérations).   
-Rédaction Technique (Normes, Spécifications, Instructions, Inspections, Offres, Soumissions).  
-Fabrication Numérique (Impression 3D et 4D, Matériaux Intelligents, Matière Programmable).  
-R&D et Travail de Laboratoire (Tests, Vérifications, Validations).  
-Systèmes (Documentation, Fabrication, Optimisation, Réseau Neuronal, Simulations, Modélisation).  
-Développement des Affaires (Ventes, Sollicitation, Gestion de Comptes, Support à la Clientèle).  
-Eco-Design (Conception Pour l’Environnement et la durabilité).  
-SIMDUT(Système d'information sur les matières dangereuses utilisées au travail).  
-Mentorat, Formation et Développement de la Main-d'œuvre.  
-Mise en miroir numérique des produits et des processus.
-Automatisation par l'integration de chaines de blocs.  
+Conformité réglementaire et qualité (ISO9001, AS9100, sécurité, gestion des risques).  
+Gestion de projets et de programmes (logistique, intégration, workflow).  
+Ingénierie (matériaux, procédés, composites, inflammabilité, design et développement, modélisation 3d).  
+Industrialisation (production, méthodes, instructions de travail et d'inspections, opérations).  
+Rédaction technique (normes, spécifications, instructions, inspections, offres, soumissions).  
+Fabrication numérique (impression 3d et 4d, matériaux intelligents, matière programmable).  
+R&D et travail de laboratoire (tests, vérifications, validations).  
+Systèmes (documentation, fabrication, optimisation, réseau neuronal, simulations, modélisation).  
+Développement des affaires (ventes, sollicitation, gestion de comptes, support à la clientèle).  
+Eco-design (conception pour l’environnement et la durabilité).  
+SIMDUT (système d'information sur les matières dangereuses utilisées au travail).  
+Mentorat, formation et développement de la main-d'œuvre.  
 
 Si oui, merci de considérer cette proposition.  
 
 Je suis disponible comme employé permanent (temps plein) ou contractuel (8289468 Canada Inc.).  
+
 #   
 www.linkedin.com/in/jfgiraudengineer  
 sites.google.com/site/8289468canadainc/  
@@ -138,8 +139,8 @@ sites.google.com/site/8289468canadainc/
 
 Jean-François Giraud ing. Membre OIQ #45934.
 
-Ingénieur spécialisé en Matériaux & Procédés avec plus de 30 ans d’expérience dans l’industrie automobile et aérospatiale.  
-Passionné par l'amélioration continue, l'innovation, l’environnement, la durabilité et les transports.  
+Ingénieur spécialisé en conformité réglementaire, gestion des opérations, matériaux et procédés.  
+Passionné par l'amélioration continue, l'innovation, l’environnement, la durabilité et les transports.   
 
 EXPÉRIENCE DE TRAVAIL  
 
@@ -185,7 +186,7 @@ Auditeur principal ISO9001, AS9100 par BSI 	2006
  
 ACCOMPLISSEMENTS PRINCIPAUX	 
 
-R&D en aérospatiale: carburants alternatifs, biologique et renouvelable pour carburéacteur (jetfuel), polymères avancés, réduction des COV et du smog, élimination des CFC et de l'appauvrissement de la couche d'ozone.  
+Aérospatiale: Conformité, carburants alternatifs, polymères avancés, réduction des COV et du smog, élimination des CFC et de l'appauvrissement de la couche d'ozone.  
 
 DPE (design pour l'environnement) élimination des matières dangereuses.  
 
@@ -205,11 +206,11 @@ Rédaction (Offres, Soumissions, Normes, Spécifications, Instructions de Travai
 
 QUALIFICATIONS TECHNIQUES  
 
-M&P: Composites, finitions et revêtements, polymères, métaux, contrôle de processus statistique.  
+M&P: Composites, finitions et revêtements, polymères, inflammabilité, contrôle de processus statistique.  
 
 Rédaction technique: offres, spécifications, instructions de travail et inspections, réparations, plans de certifications.  
 
-Logiciel: Office, CATIA/ENOVIA Freecad, Projets, R, Lisp, Python, SAP, Linux, Windows, MacOS...  
+Logiciel: Office, Freecad, R, Lisp, Python, SAP, Linux, Windows, MacOS.  
 
 Pour plus d'information, références, publications veuillez svp consulter mes profiles    
 
