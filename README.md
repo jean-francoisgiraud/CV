@@ -38,7 +38,10 @@ Passionate about continuous improvement, innovation, the environment, sustainabi
 
 WORK EXPERIENCE  
 
-Materials & Processes Engineer	2018-present  
+Quality Management and Materials & Processes	2020-present  
+MSB-RG, Boucherville, Qc  
+
+Materials & Processes Engineer	2018-2020  
 Bombardier Aerospace, Dorval, Qc  
 Design Review & Documentation.  
 
@@ -144,7 +147,10 @@ Passionné par l'amélioration continue, l'innovation, l’environnement, la dur
 
 EXPÉRIENCE DE TRAVAIL  
 
-Ingénieur en Matériaux et Procédés	2018-présent  
+Gestion de la Qualité et Matériaux et Procédés	2020-présent  
+MSB-RG, Boucherville, Qc  
+
+Ingénieur en Matériaux et Procédés	2018-2020  
 Bombardier Aerospace, Dorval, Qc  
 Revue de conception et documentation.  
 
