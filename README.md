@@ -102,10 +102,11 @@ Provided training and mentoring in Materials, Processes, Composites Engineering.
 TECHNICAL SKILLS 
 
 M&P: Composites, finishing & coatings, polymers, flammability, statistical process control, methods and management systems.  
-
-Technical Writing: Offers, bids, requirements, repairs Specifications, work instructions & inspections, certification plans.  
+Technical Writing: Offers, bids, requirements, repairs Specifications, work instructions & inspections, certification plans. 
 
 Software: Offices, Freecad, R, Lisp, Python, SAP, Linux, Windows, MacOS.  
+
+Electronics: Amateur radio operator. VA2GFF  
 
 
 https://github.com/jean-francoisgiraud  
@@ -218,6 +219,8 @@ Rédaction technique: offres, spécifications, instructions de travail et inspec
 
 Logiciel: Office, Freecad, R, Lisp, Python, SAP, Linux, Windows, MacOS.  
 
+Electroniques: Operateur de radio Amateur. VA2GFF  
+  
 Pour plus d'information, références, publications veuillez svp consulter mes profiles    
 
 https://github.com/jean-francoisgiraud  
