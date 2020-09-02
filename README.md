@@ -11,7 +11,7 @@ Hello,
 
 Are you looking for support and services in the following areas?  
 
-Regulatory compliance and quality (iso9001, as9100, safety, risk management).  
+Regulatory compliance, certification (ACS) and quality (iso9001, as9100, safety, risk management).  
 Project and program management (planning, logistics, integration, workflow).  
 Engineering (materials, processes, composites, flammability, design and development, 3d modeling).  
 Industrialization (production, methods, work instructions, operations).  
@@ -121,7 +121,7 @@ sites.google.com/site/8289468canadainc/
 
 Recherchez-vous du support dans les domaines suivants?  
 
-Conformité réglementaire et qualité (ISO9001, AS9100, sécurité, gestion des risques).  
+Conformité réglementaire certification (ACS) et qualité (ISO9001, AS9100, sécurité, gestion des risques).  
 Gestion de projets et de programmes (logistique, intégration, workflow).  
 Ingénierie (matériaux, procédés, composites, inflammabilité, design et développement, modélisation 3d).  
 Industrialisation (production, méthodes, instructions de travail et d'inspections, opérations).  
