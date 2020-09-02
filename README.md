@@ -38,7 +38,7 @@ Passionate about continuous improvement, innovation, the environment, sustainabi
 
 WORK EXPERIENCE  
 
-Quality Management and Materials & Processes	2020-present  
+ACS (Aircraft Certification Specialist), Materials & Processes Engineer	2020-Present  
 MSB-RG, Boucherville, Qc  
 
 Materials & Processes Engineer	2018-2020  
@@ -76,6 +76,7 @@ McGill University, Montreal, Qc
 
 SPECIALIZED TRAINING  
 
+ACS (Aircraft Certification Specialist), Transports Canada 2020  
 Management (systems, projects, regulations)	1998-2019  
 Computer Aided Design (CAD)			1988-2019  
 TC Flammability Designated engineer		1999-2000  
@@ -149,7 +150,7 @@ Passionné par l'amélioration continue, l'innovation, l’environnement, la dur
 
 EXPÉRIENCE DE TRAVAIL  
 
-Gestion de la Qualité et Matériaux et Procédés	2020-présent  
+ACS (Aircraft Certification Specialist) et Gestion de la Qualité et Matériaux et Procédés	2020-présent  
 MSB-RG, Boucherville, Qc  
 
 Ingénieur en Matériaux et Procédés	2018-2020  
@@ -187,6 +188,7 @@ Université McGill, Montréal, Qc.
  
 FORMATIONS SPÉCIALISÉES  
  
+ACS (Aircraft Certification Specialist), Transports Canada 2020  
 Gestion (systèmes, projets, règlementation)	1998-2019  
 Conception assistée par ordinateur (CAO) 	1988-2019  
 TC Ingénieur désigné Inflammabilité 		1999-2000  
