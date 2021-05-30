@@ -16,9 +16,6 @@ Systems (documentation, operations, manufacturing, neural networks, simulations,
 Business development (sales, solicitation, account management, customer support).  
 Eco-design (DFE design for the environment) and workplace hazardous materials information system controls (whmis). Mentoring, training and development of the workforce.  
 
-If so, please consider this proposal.  
-I am available on a permanent (full time) or contractual (part time) basis (8289468 Canada Inc.).  
-
 #   
 www.linkedin.com/in/jfgiraudengineer  
 sites.google.com/site/8289468canadainc/  
@@ -124,11 +121,7 @@ Systèmes (documentation, fabrication, optimisation, réseau neuronal, simulatio
 Développement des affaires (ventes, sollicitation, gestion de comptes, support à la clientèle).  
 Eco-design (conception pour l’environnement et la durabilité).  
 SIMDUT (système d'information sur les matières dangereuses utilisées au travail).  
-Mentorat, formation et développement de la main-d'œuvre.  
-
-Si oui, merci de considérer cette proposition.  
-
-Je suis disponible comme employé permanent (temps plein) ou contractuel (8289468 Canada Inc.).  
+Mentorat, formation et développement de la main-d'œuvre.   
 
 #   
 www.linkedin.com/in/jfgiraudengineer  
