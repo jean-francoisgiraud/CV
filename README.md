@@ -1,11 +1,11 @@
 
-# ENGLISH CV and Presentation Letter  
-# CV et Lettre de Presentation en FRANCAIS
+# ENGLISH CV  
+# CV FRANCAIS
+# 8289468 Canada Inc. 
 #  
-#  
-# ENGLISH CV and Presentation Letter 
+# ENGLISH CV 
 
-Regulatory compliance certification verification in aerospace and the green economy (iso9001, as9100, safety, risk management).  
+Regulatory compliance certification verification in aerospace and environment (iso9001, as9100, safety, risk management).  
 Project and program management (planning, logistics, integration, workflow).  
 Engineering (materials, processes, composites, flammability, design and development, 3d modeling).  
 Industrialization (production, methods, work instructions, operations).  
@@ -20,7 +20,6 @@ Eco-design (DFE design for the environment) and workplace hazardous materials in
 www.linkedin.com/in/jfgiraudengineer  
 sites.google.com/site/8289468canadainc/  
 #  
-# CV ENGLISH
 
 Jean-François Giraud, eng.  OIQ member #45934; 
 
@@ -108,7 +107,7 @@ sites.google.com/site/8289468canadainc/
 
 #  
 #  
-# CV et Lettre de Presentation en FRANCAIS
+# CV FRANCAIS  
 
 Conformité réglementaire, certification, verification en aéronautique et environnement (ISO9001, AS9100, sécurité, gestion des risques).  
 Gestion de projets et de programmes (logistique, intégration, workflow).  
