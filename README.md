@@ -1,7 +1,7 @@
 
 # ENGLISH CV  
 # CV FRANCAIS
-# 8289468 Canada Inc. 
+8289468 Canada Inc.  
 
 Regulatory compliance certification verification in aerospace and environment (iso9001, as9100, safety, risk management).  
 Project, asset and program management (planning, logistics, integration, workflow).  
