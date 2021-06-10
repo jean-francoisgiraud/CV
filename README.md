@@ -3,7 +3,7 @@
 # CV FRANCAIS
 8289468 Canada Inc.  
 
-Regulatory compliance certification verification in aerospace and environment (iso9001, as9100, safety, risk management).  
+Regulatory compliance certification verification in aerospace and environment (iso9001, as9100, quality, safety, assets, systems, risk management).  
 Project, asset and program management (planning, logistics, integration, workflow).  
 Engineering (materials, processes, composites, flammability, design and development, 3d modeling).  
 Industrialization (production, methods, work instructions, operations).  
@@ -108,7 +108,7 @@ sites.google.com/site/8289468canadainc/
 #  
 # CV FRANCAIS  
 
-Conformité réglementaire, certification, verification en aéronautique et environnement (ISO9001, AS9100, sécurité, gestion des risques).  
+Conformité réglementaire, certification, verification en aéronautique et environnement (ISO9001, AS9100; gestion systemes, qualité, actifs, risques).  
 Gestion de projets des actifs et de programmes (logistique, intégration, flux de travail (workflow)).  
 Ingénierie (matériaux, procédés, composites, inflammabilité, design et développement, modélisation 3d).  
 Industrialisation (production, méthodes, instructions de travail et d'inspections, opérations).  
