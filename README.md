@@ -2,11 +2,9 @@
 # ENGLISH CV  
 # CV FRANCAIS
 # 8289468 Canada Inc. 
-#  
-# ENGLISH CV 
 
 Regulatory compliance certification verification in aerospace and environment (iso9001, as9100, safety, risk management).  
-Project and program management (planning, logistics, integration, workflow).  
+Project, asset and program management (planning, logistics, integration, workflow).  
 Engineering (materials, processes, composites, flammability, design and development, 3d modeling).  
 Industrialization (production, methods, work instructions, operations).  
 Technical writing (specifications, requirements, instructions, inspections, offers, bids).  
@@ -67,7 +65,8 @@ McGill University, Montreal, Qc
 SPECIALIZED TRAINING  
 
 ACS (Aircraft Certification Specialist), Transports Canada 2020  
-Management (systems, projects, regulations)	1998-2019  
+Amateur Radio (VA2GFF), Industries Canada 2020  
+Management (systems, assets, projects, regulations)	1998-2019  
 Computer Aided Design (CAD)			1988-2019  
 TC Flammability Designated engineer		1999-2000  
 Lead auditor ISO9001, AS9100 by BSI		2006  
@@ -110,7 +109,7 @@ sites.google.com/site/8289468canadainc/
 # CV FRANCAIS  
 
 Conformité réglementaire, certification, verification en aéronautique et environnement (ISO9001, AS9100, sécurité, gestion des risques).  
-Gestion de projets et de programmes (logistique, intégration, workflow).  
+Gestion de projets des actifs et de programmes (logistique, intégration, flux de travail (workflow)).  
 Ingénierie (matériaux, procédés, composites, inflammabilité, design et développement, modélisation 3d).  
 Industrialisation (production, méthodes, instructions de travail et d'inspections, opérations).  
 Rédaction technique (normes, spécifications, instructions, inspections, offres, soumissions).  
@@ -173,7 +172,8 @@ Université McGill, Montréal, Qc.
 FORMATIONS SPÉCIALISÉES  
  
 ACS (Aircraft Certification Specialist), Transports Canada 2020  
-Gestion (systèmes, projets, règlementation)	1998-2019  
+Radio Amateur (VA2GFF), Industries Canada 2020  
+Gestion (systèmes, actifs, projets, règlementation)	1998-2019  
 Conception assistée par ordinateur (CAO) 	1988-2019  
 TC Ingénieur désigné Inflammabilité 		1999-2000  
 Auditeur principal ISO9001, AS9100 par BSI 	2006  
