@@ -26,10 +26,10 @@ Passionate about continuous improvement, innovation, the environment, sustainabi
 
 WORK EXPERIENCE  
 
-ACS (Aircraft Certification Specialist), Materials & Processes Engineer	2020-Present  
+ACS (Aircraft Certification Specialist), Materials & Processes Engineer, Design Quality	2019-Present  
 MSB-RG, Boucherville, Qc  
 
-Materials & Processes Engineer	2018-2020  
+Materials & Processes Engineer	2018-2019  
 Bombardier Aerospace, Dorval, Qc  
 Design Review & Documentation.  
 
@@ -64,10 +64,10 @@ McGill University, Montreal, Qc
 
 SPECIALIZED TRAINING  
 
+Computer Aided Design (CAD), Dassault's 3D experience, Catia	1988-2019  
 ACS (Aircraft Certification Specialist), Transports Canada 2020  
 Amateur Radio (VA2GFF), Industries Canada 2020  
 Management (systems, assets, projects, regulations)	1998-2019  
-Computer Aided Design (CAD)			1988-2019  
 TC Flammability Designated engineer		1999-2000  
 Lead auditor ISO9001, AS9100 by BSI		2006  
 
@@ -133,10 +133,10 @@ Passionné par l'amélioration continue, l'innovation, l’environnement, la dur
 
 EXPÉRIENCE DE TRAVAIL  
 
-ACS (Aircraft Certification Specialist) et Gestion de la Qualité et Matériaux et Procédés	2020-présent  
+ACS (Aircraft Certification Specialist), Gestion de la Qualité, Matériaux Procédés, Design	2019-présent  
 MSB-RG, Boucherville, Qc  
 
-Ingénieur en Matériaux et Procédés	2018-2020  
+Ingénieur en Matériaux et Procédés	2018-2019  
 Bombardier Aerospace, Dorval, Qc  
 Revue de conception et documentation.  
 
@@ -144,11 +144,11 @@ Ingénieur Qualité	2017-2018
 Zodiac Aerospace, Kirkland, Qc  
 Cabines, composites, systèmes, revues de conception, rédaction technique et revues.  
 
-Ingénieur de Systèmes			2016-2017  
+Ingénieur de Systèmes	2016-2017  
 Sous-traitance pour plusieurs entreprises au Qc  
 AS9100, qualité, opérations, composites, rédaction technique et revues.  
 
-Ingénieur en Matériaux et Procédés	2007-2016  
+Ingénieur en Matériaux et Procédés 2007-2016  
 Bombardier Aerospace, St-Laurent, Qc  
 Composites, revues de conception, documentation.  
 
@@ -170,11 +170,11 @@ Baccalauréat en Génie Chimique 		1984-1988
 Université McGill, Montréal, Qc.	 
  
 FORMATIONS SPÉCIALISÉES  
- 
+
+Conception assistée par ordinateur (CAO), Conception assistée par ordinateur (CAO) 	1988-2021  
 ACS (Aircraft Certification Specialist), Transports Canada 2020  
 Radio Amateur (VA2GFF), Industries Canada 2020  
 Gestion (systèmes, actifs, projets, règlementation)	1998-2019  
-Conception assistée par ordinateur (CAO) 	1988-2019  
 TC Ingénieur désigné Inflammabilité 		1999-2000  
 Auditeur principal ISO9001, AS9100 par BSI 	2006  
  
