@@ -26,10 +26,10 @@ Passionate about continuous improvement, innovation, the environment, sustainabi
 
 WORK EXPERIENCE  
 
-ACS (Aircraft Certification Specialist), Materials & Processes Engineer, Design Quality	2019-Present  
+ACS (Aircraft Certification Specialist), Materials & Processes Engineer, Design Quality	2020-Present  
 MSB-RG, Boucherville, Qc  
 
-Materials & Processes Engineer	2018-2019  
+Materials & Processes Engineer	2018-2020  
 Bombardier Aerospace, Dorval, Qc  
 Design Review & Documentation.  
 
@@ -133,10 +133,10 @@ Passionné par l'amélioration continue, l'innovation, l’environnement, la dur
 
 EXPÉRIENCE DE TRAVAIL  
 
-ACS (Aircraft Certification Specialist), Gestion de la Qualité, Matériaux Procédés, Design	2019-présent  
+ACS (Aircraft Certification Specialist), Gestion de la Qualité, Matériaux Procédés, Design	2020-présent  
 MSB-RG, Boucherville, Qc  
 
-Ingénieur en Matériaux et Procédés	2018-2019  
+Ingénieur en Matériaux et Procédés	2018-2020  
 Bombardier Aerospace, Dorval, Qc  
 Revue de conception et documentation.  
 
