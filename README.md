@@ -1,6 +1,6 @@
 
-# ENGLISH CV  
-# CV FRANCAIS
+# ENGLISH CV  (le CV en Francais suit)
+
 8289468 Canada Inc.  
 
 Regulatory compliance certification verification in aerospace and environment (iso9001, as9100, quality, safety, assets, systems, risk management).  
@@ -24,7 +24,7 @@ Jean-François Giraud, eng.  OIQ member #45934;
 Engineer specialized in regulatory compliance, operations management, material and processes.  
 Passionate about continuous improvement, innovation, the environment, sustainability and transportation. 
 
-WORK EXPERIENCE  
+## WORK EXPERIENCE  
 
 ACS (Aircraft Certification Specialist), Materials & Processes Engineer, Design Quality	2020-Present  
 MSB-RG, Boucherville, Qc  
@@ -57,21 +57,21 @@ Materials & Processes Engineer	1988-1992
 Cytec, Montreal, Qc  
 Chemicals, composites, projects, accounts management, sales.  
 
-EDUCATION  
+## EDUCATION  
 
 Bachelor in Chemical Engineering 	1984-1988  
 McGill University, Montreal, Qc  
 
-SPECIALIZED TRAINING  
+## SPECIALIZED TRAINING  
 
-Computer Aided Design (CAD), Dassault's 3D experience, Catia	1988-2019  
+Computer Aided Design (CAD), Dassault's 3D experience, Catia V5	1988-2019  
 ACS (Aircraft Certification Specialist), Transports Canada 2020  
 Amateur Radio (VA2GFF), Industries Canada 2020  
 Management (systems, assets, projects, regulations)	1998-2019  
 TC Flammability Designated engineer		1999-2000  
 Lead auditor ISO9001, AS9100 by BSI		2006  
 
-MAJOR ACCOMPLISHMENTS
+## MAJOR ACCOMPLISHMENTS
 
 Aerospace: Compliance, alternative fuels, advanced polymers and coatings, VOC and smog reduction, elimination of CFCs and ozone depletion.  
 
@@ -89,7 +89,7 @@ Customer Support: Technical, Sales, Account, Training.
 
 Provided training and mentoring in Materials, Processes, Composites Engineering.  
 
-TECHNICAL SKILLS 
+## TECHNICAL SKILLS 
 
 M&P: Composites, finishing, polymers, flammability, statistical process control, methods and management systems.  
   
@@ -131,7 +131,7 @@ Jean-François Giraud ing. Membre OIQ #45934.
 Ingénieur spécialisé en conformité réglementaire, gestion des opérations, matériaux et procédés.  
 Passionné par l'amélioration continue, l'innovation, l’environnement, la durabilité et les transports.   
 
-EXPÉRIENCE DE TRAVAIL  
+## EXPÉRIENCE DE TRAVAIL  
 
 ACS (Aircraft Certification Specialist), Gestion de la Qualité, Matériaux Procédés, Design	2020-présent  
 MSB-RG, Boucherville, Qc  
@@ -164,21 +164,21 @@ Ingénieur en Matériaux et Procédés	1988-1992
 Cytec, Montréal, Qc  
 Produits chimiques, composites, Projets, Gestion des comptes, Ventes.  
  
-EDUCATION  
+## EDUCATION  
  
 Baccalauréat en Génie Chimique 		1984-1988  
 Université McGill, Montréal, Qc.	 
  
-FORMATIONS SPÉCIALISÉES  
+## FORMATIONS SPÉCIALISÉES  
 
-Conception assistée par ordinateur (CAO), Conception assistée par ordinateur (CAO) 	1988-2021  
-ACS (Aircraft Certification Specialist), Transports Canada 2020  
+Conception assistée par ordinateur (CAO), Dassault 3DExperience, Catia V5 	1988-2021  
+SCA (Spécialisé en Matiere de Certification d'Aéronefs), Transports Canada 2020  
 Radio Amateur (VA2GFF), Industries Canada 2020  
 Gestion (systèmes, actifs, projets, règlementation)	1998-2019  
 TC Ingénieur désigné Inflammabilité 		1999-2000  
 Auditeur principal ISO9001, AS9100 par BSI 	2006  
  
-ACCOMPLISSEMENTS PRINCIPAUX	 
+## ACCOMPLISSEMENTS PRINCIPAUX	 
 
 Aérospatiale: Conformité, carburants alternatifs, polymères avancés, réduction des COV et du smog, élimination des CFC et de l'appauvrissement de la couche d'ozone.  
 
@@ -198,7 +198,7 @@ Formation et mentorat fournie en Ingénierie Aérospatiale de Matériaux/Composi
 
 Rédaction (Offres, Soumissions, Normes, Spécifications, Instructions de Travail et d'Inspection, Réparations).  
 
-QUALIFICATIONS TECHNIQUES  
+## QUALIFICATIONS TECHNIQUES  
 
 M&P: Composites, finitions et revêtements, polymères, inflammabilité, contrôle de processus statistique.  
 
